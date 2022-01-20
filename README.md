@@ -1,6 +1,6 @@
 # react-project-starter
 
-** This is a single bootstrap for react intend projects **
+## This is a single bootstrap for react intend projects 
 
 Technologies used
 
