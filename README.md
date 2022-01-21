@@ -5,6 +5,7 @@
 Technologies used
 
 - React JS
+- Typescript
 - SASS
 - Webpack
 - Babel Loader
